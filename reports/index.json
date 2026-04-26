@@ -1,0 +1,34 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260426-170124-y6kp",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-04-26T21:01:24.000Z",
+      "dateEnd": "2026-04-26T22:41:55.000Z",
+      "dateLabel": "4/26/2026, 5:01:24 PM - 4/26/2026, 6:41:55 PM",
+      "url": "https://KahmE.github.io/wino-wvw/?report=20260426-170124-y6kp",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 44
+      }
+    }
+  ]
+}
